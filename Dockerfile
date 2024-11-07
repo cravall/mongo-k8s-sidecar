@@ -1,5 +1,4 @@
 FROM node:alpine
-MAINTAINER Charles Vallance <vallance.charles@gmail.com>
 
 WORKDIR /opt/cvallance/mongo-k8s-sidecar
 
